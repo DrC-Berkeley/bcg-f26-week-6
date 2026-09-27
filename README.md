@@ -9,6 +9,6 @@ Public files:
 - `index.html`
 - `style.css`
 
-The page links to the original Deepa Iyer, Center for Court Innovation, and María Elena Torre sources. It does not contain student work or private course records.
+The page links to the original Deepa Iyer, Center for Justice Innovation, and María Elena Torre sources. It does not contain student work or private course records.
 
 Intended GitHub Pages destination: `https://drc-berkeley.github.io/bcg-f26-week-6/`
